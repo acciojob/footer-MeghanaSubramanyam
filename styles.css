@@ -41,6 +41,7 @@ footer .media-icons a {
 
 footer .media-icons a:hover {
   color: #ffa500;
+	display:flex;
 }
 
 footer .link-boxes {
